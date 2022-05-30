@@ -1,4 +1,7 @@
-### Hi there 👋
+### Shunsuke Osaki
+Hi there 👋
+
+I am a master's student of Computer Science at Univ. Tsukuba.
 
 <!--
 **ooshun/ooshun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
